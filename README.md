@@ -18,14 +18,6 @@ Tenho sólida experiência na criação de arquiteturas de microserviços e APIs
 
 ---
 
-
-### 📊 Estatísticas do GitHub:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renantescaro&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=renantescaro&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-tescaro/)
