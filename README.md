@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Renan! 🚀
 
-<!--
-**renantescaro/renantescaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Developer | Backend Specialist
 
-Here are some ideas to get you started:
+Desenvolvedor Sênior focado na construção de sistemas escaláveis e resilientes.
+Tenho sólida experiência na criação de arquiteturas de microserviços e APIs de alta performance utilizando o ecossistema Python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ No que sou especialista:
+
+* **Linguagens & Frameworks:** Python (FastAPI, Flask, Django).
+* **Arquitetura:** Microserviços, Event-Driven Architecture, RESTful APIs e Clean Architecture.
+* **Infraestrutura & DevOps:** Docker, Kubernetes, CI/CD, Heroku e Cloud Solutions.
+* **Performance & Mensageria:** Redis (Caching & Pub/Sub), RabbitMQ, Kafka.
+* **Banco de Dados:** PostgreSQL, MySQL, Redis e MongoDB.
+* **Observabilidade:** Prometheus, Grafana e monitoramento de logs.
+
+---
+
+
+### 📊 Estatísticas do GitHub:
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-tescaro/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@provedor.com)
