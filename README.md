@@ -3,8 +3,6 @@
 
 Sênior focado na construção de sistemas distribuídos, escaláveis e resilientes.<br>Especialista no ecossistema Python, com forte atuação em design de sistemas que resolvem problemas complexos de negócio (Logística, Fintech e E-commerce).
 
-🌐 **Acesse meu portfólio:** [tescaro.online](https://tescaro.online)
-
 ---
 
 ### 🏛️ Engineering & Architecture
